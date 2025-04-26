@@ -75,3 +75,16 @@ Mock images and audio are used where real content is not available.
  Conclusion
 Crackd is designed with simplicity, positivity, and gamification to help NEET/JEE aspirants stay on track and motivated during their intense preparation journey. 
 
+![image](https://github.com/user-attachments/assets/f4540b98-78ca-4e4a-82a1-832175e1b954)
+
+![image](https://github.com/user-attachments/assets/cf985b02-f20f-438c-b051-f4d15b91f8c0)
+
+![image](https://github.com/user-attachments/assets/81107e8e-4373-4cf9-93df-34ebc8af8b96)
+
+![image](https://github.com/user-attachments/assets/16dfe445-6f89-4aad-ba2f-16834bfc83b5)
+
+![image](https://github.com/user-attachments/assets/85c7c92f-e43c-4b94-924f-5825b0319154)
+
+![image](https://github.com/user-attachments/assets/a3e26415-b4a8-467f-94aa-172644517cde)
+
+![image](https://github.com/user-attachments/assets/c9962153-537e-4782-bedb-1ed7366a8ba9)
