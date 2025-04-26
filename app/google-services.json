@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "930154829741",
+    "project_id": "crackd-c2fe4",
+    "storage_bucket": "crackd-c2fe4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930154829741:android:914a8e17dfd572394e7324",
+        "android_client_info": {
+          "package_name": "com.moin.crackd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhv7vpVlNexpdbhDZdS4dDt1CPe86l8fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
